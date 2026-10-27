@@ -1,5 +1,5 @@
-# Camptunes catalogue
+# CampTunes update metadata
 
-Catalogue metadata for Camptunes. Audio files remain in Google Drive.
+Version metadata for CampTunes. Application source, installers and releases stay in the private RemyDNetwork/Camptunes repository. Release download links require an authorized GitHub account.
 
-The application source, installers and releases are private. This repository does not provide public app downloads.
+This repository provides no app binaries, music files or media catalogue. Audio and lyrics are served through the authenticated R2 media service.
