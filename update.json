@@ -1,17 +1,17 @@
 {
-  "tag_name": "v0.4.4-preview.1",
-  "html_url": "https://github.com/RemyDNetwork/Camptunes/releases/tag/v0.4.4-preview.1",
+  "tag_name": "v0.4.5-preview.1",
+  "html_url": "https://github.com/RemyDNetwork/Camptunes/releases/tag/v0.4.5-preview.1",
   "platforms": [
     "android"
   ],
   "assets": [
     {
-      "name": "CampTunes-0.4.4-android.apk",
-      "browser_download_url": "https://github.com/RemyDNetwork/Camptunes/releases/download/v0.4.4-preview.1/CampTunes-0.4.4-android.apk"
+      "name": "CampTunes-0.4.5-android.apk",
+      "browser_download_url": "https://github.com/RemyDNetwork/Camptunes/releases/download/v0.4.5-preview.1/CampTunes-0.4.5-android.apk"
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/RemyDNetwork/Camptunes/releases/download/v0.4.4-preview.1/SHA256SUMS.txt"
+      "browser_download_url": "https://github.com/RemyDNetwork/Camptunes/releases/download/v0.4.5-preview.1/SHA256SUMS.txt"
     }
   ]
 }
